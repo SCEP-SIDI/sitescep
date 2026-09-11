@@ -40,22 +40,22 @@ BUILDINGS = {
                 {"name": "Chambre supp", "capacity": 2, "coords": (298, 118, 543, 238)},
                 {"name": "Toilettes", "capacity": None, "coords": (558, 118, 643, 233)},
                 {"name": "Salle de bain", "capacity": None, "coords": (18, 253, 403, 333)},
-                {"name": "Chambre flo", "capacity": 3, "coords": (18, 353, 403, 463)},
+                {"name": "Chambre flo", "capacity": 4, "coords": (18, 353, 403, 463)},
                 {"name": "Escaliers", "capacity": None, "coords": (528, 288, 643, 478), "shape": "round"},
             ],
         },
         "Bas": {
             "rooms": [
-                {"name": "Chambre du bas", "capacity": 2, "coords": (280, 60, 520, 240)},
+                {"name": "Chambre de tom (bas)", "capacity": 2, "coords": (280, 60, 520, 240)},
             ],
         },
     },
     "Magnanerie": {
         "Haut": {
             "rooms": [
-                {"name": "Chambre 3 (Antoine & Céline)", "capacity": 3, "coords": (73, 55, 330, 395)},
+                {"name": "Chambre 3 ", "capacity": 3, "coords": (73, 55, 330, 395)},
                 {"name": "Toilettes", "capacity": None, "coords": (73, 262, 188, 395)},
-                {"name": "Chambre 2", "capacity": 2, "coords": (330, 55, 593, 395)},
+                {"name": "Chambre 2 (Antoine & Céline)", "capacity": 2, "coords": (330, 55, 593, 395)},
                 {"name": "Chambre 1 (Alex & Meg)", "capacity": 3, "coords": (593, 55, 813, 395)},
                 {"name": "Escalier", "capacity": None, "coords": (813, 55, 955, 395)},
                 {"name": "Couloir", "capacity": None, "coords": (73, 395, 955, 487)},
