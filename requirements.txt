@@ -1,0 +1,6 @@
+streamlit>=1.38
+pandas>=2.0
+
+# Décommentez la ligne suivante si vous activez la persistance Google Sheets
+# (voir storage_gsheets_example.py et README.md)
+# streamlit-gsheets
